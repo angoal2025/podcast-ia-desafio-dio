@@ -38,7 +38,7 @@ A tabela abaixo resume as ferramentas de IA utilizadas em cada fase do projeto:
 
 O áudio finalizado e mixado está disponível na pasta `output/`:
 
-[**OUVIR EPISÓDIO: Deep Dive - Comunicação Estratégica na Era Digital**](/output/DeepDive_ComunicaoEstrategica.mp3)
+[**OUVIR EPISÓDIO: Deep Dive - Comunicação Estratégica na Era Digital**](/output/DeepDive_ComunicacaoEstrategica_FINAL.mp3)
 
 ### Arte de Capa
 *(Certifique-se de que o nome do seu arquivo de imagem está correto: capa_podcast.png)*
