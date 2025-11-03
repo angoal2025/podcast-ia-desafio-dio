@@ -38,7 +38,11 @@ A tabela abaixo resume as ferramentas de IA utilizadas em cada fase do projeto:
 
 O áudio finalizado e mixado está disponível na pasta `output/`:
 
-[**OUVIR EPISÓDIO: Deep Dive - Comunicação Estratégica na Era Digital**](/output/DeepDive_ComunicacaoEstrategica_FINAL.mp3)
+### Áudio do Podcast (Ouvir o Resultado)
+
+Devido às limitações de visualização do GitHub, o reprodutor nativo pode falhar. Por favor, **clique com o botão direito** no link abaixo e escolha **"Salvar Link Como..."** ou **"Fazer o Download"** para ouvir o episódio.
+
+[**CLIQUE AQUI PARA BAIXAR O EPISÓDIO: Deep Dive - Comunicação Estratégica**](/output/DeepDive_ComunicacaoEstrategica_FINAL.mp3)
 
 ### Arte de Capa
 *(Certifique-se de que o nome do seu arquivo de imagem está correto: capa_podcast.png)*
